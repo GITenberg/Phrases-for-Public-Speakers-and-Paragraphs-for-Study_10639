@@ -1,5 +1,5 @@
 _repo: Phrases-for-Public-Speakers-and-Paragraphs-for-Study_10639
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   compiler:
     agent_name: Kleiser, Grenville
@@ -7,7 +7,12 @@ contributor:
     deathdate: 1953
     gutenberg_agent_id: '4071'
     url: http://www.gutenberg.org/2009/agents/4071
+covers:
+- cover_type: generated
+  image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10639#Phrases-for-Public-Speakers-and-Paragraphs-for-Study
 gutenberg_issued: '2004-01-01'
 gutenberg_type: Text
 identifiers:
